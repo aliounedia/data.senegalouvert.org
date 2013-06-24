@@ -29,7 +29,7 @@
         "resources": [
 		{
 
-		  schema :{
+		  "schema" :{
 		    "fields": [
           		{
             		"id": "_id", 
