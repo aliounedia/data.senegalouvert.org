@@ -25,30 +25,28 @@
         "ratings_average": null, 
         "ratings_count": 0, 
         "relationships": [], 
-        "resources": [
+        "resources": {
 		    "fields": [
-          {
-            "id": "_id", 
-            "type": "numeric"
-          }, 
-          {
-            "id": "Annees", 
-            "type": "numeric"
-          }, 
-          {
-            "id": "Population totale", 
-            "type": "numeric"
-          }, 
-          {
-            "id": "Hommes", 
-            "type": "numeric"
-          }
-		{
-            "id": "Femmes", 
-            "type": "numeric"
-          }
-
-        ], 
+          		{
+            		"id": "_id", 
+            		"type": "numeric"
+         		 }, 
+          		{
+           		 "id": "Annees", 
+           		 "type": "numeric"
+          		}, 
+          		{
+           	       "id": "Population totale", 
+            	"type": "numeric"
+          		}, 
+          		{
+           		 "id": "Hommes", 
+            	"type": "numeric"
+         		 },
+		     {
+           		 "id": "Femmes", 
+           		 "type": "numeric"
+          		}], 
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-06-23T18:01:17.822308", 
