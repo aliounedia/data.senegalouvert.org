@@ -73,6 +73,29 @@
                 "webstore_url": "active"
             }, 
             {
+
+
+		     "fields": [
+          		{
+            		"id": "_id", 
+            		"type": "numeric"
+         		 }, 
+          		{
+           		 "id": "Annees", 
+           		 "type": "numeric"
+          		}, 
+          		{
+           	       "id": "Population totale", 
+            	"type": "numeric"
+          		}, 
+          		{
+           		 "id": "Hommes", 
+            	"type": "numeric"
+         		 },
+		     {
+           		 "id": "Femmes", 
+           		 "type": "numeric"
+          		}], 
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-04-03T16:04:36.849595", 
