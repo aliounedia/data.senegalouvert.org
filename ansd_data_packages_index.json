@@ -33,18 +33,22 @@
 		    "fields": [
           		
           		{
+			 "format": "yyyy",
            		 "id": "Annees", 
            		 "type": "date"
           		}, 
           		{
-           	       "id": "Population totale", 
+           	      "format": "percentage", 
+			"id": "Population totale", 
             	"type": "number"
           		}, 
           		{
+			 "format": "percentage", 
            		 "id": "Hommes", 
-            	"type": "number"
+            	 "type": "number"
          		 },
 		     {
+			 "format": "percentage", 
            		 "id": "Femmes", 
            		 "type": "number"
           		}
