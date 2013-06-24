@@ -28,6 +28,8 @@
         "relationships": [], 
         "resources": [
 		{
+
+		  schema :{
 		    "fields": [
           		{
             		"id": "_id", 
@@ -48,14 +50,17 @@
 		     {
            		 "id": "Femmes", 
            		 "type": "numeric"
-          		}], 
+          		}
+		    ]
+		}
+		, 
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-06-23T18:01:17.822308", 
                 "description": "REPARTITION DE LA POPULATION\r\nSELON LE SEXE DE 1970 \u00e0 2005", 
                 "format": "text/csv", 
                 "hash": "9c83d80b37ecccfa4d056e6786962c21f4c30bea", 
-                "id": "8cf3b3ec-ef32-4e8a-bce8-e031e0a30921", 
+               	
                 "last_modified": "2013-06-23T18:01:20.826799", 
                 "mimetype": "text/csv", 
                 "mimetype_inner": "", 
