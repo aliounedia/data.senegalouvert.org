@@ -10,8 +10,8 @@
         "groups": [
             "country-sn"
         ], 
-        "id": "535e2fe2-60de-4d02-b287-50a1a0dbd11c", 
- 	  "name": "535e2fe2-60de-4d02-b287-50a1a0dbd11c", 
+        "id": "r-partition-de-la-population-selon-le-sexe-de-1970-2005", 
+ 	  "name": "r-partition-de-la-population-selon-le-sexe-de-1970-2005", 
         "isopen": true, 
         "license": "Other (Public Domain)", 
         "license_id": "other-pd", 
@@ -20,7 +20,7 @@
         "maintainer_email": "", 
         "metadata_created": "2013-04-03T21:04:36.092475", 
         "metadata_modified": "2013-06-24T12:58:13.616883", 
-        "name": "535e2fe2-60de-4d02-b287-50a1a0dbd11c", 
+        "name": "r-partition-de-la-population-selon-le-sexe-de-1970-2005", 
         "notes": "REPARTITION DE LA POPULATION\r\nSELON LE SEXE DE 1970 \u00e0 2005\r\n\r\nSources : DPS/MEF\r\n1- De 1970-1975 : Population de 1976 r\u00e9tro projet\u00e9e avec un taux de 2,5 % par an hypoth\u00e8se d\u00e9duite des\r\nprojections de la DPS (Situation \u00c9conomique 1959-79)\r\n2- De 1977-1987 : Population de 1976 projet\u00e9e avec un taux de 2,6 %\r\n3- De 1989-2000 : Population estim\u00e9 par les projections de la Direction de la Pr\u00e9vision et de la Statistique\r\n4- De 1999 \u00e0 2001 : Nouvelles projections division des enqu\u00eates d\u00e9mographiques de la DPS", 
         "notes_rendered": "<p>REPARTITION DE LA POPULATION\n   SELON LE SEXE DE 1970 \u00e0 2005\n</p>\n<p>Sources : DPS/MEF\n   1- De 1970-1975 : Population de 1976 r\u00e9tro projet\u00e9e avec un taux de 2,5 % par an hypoth\u00e8se d\u00e9duite des\n   projections de la DPS (Situation \u00c9conomique 1959-79)\n   2- De 1977-1987 : Population de 1976 projet\u00e9e avec un taux de 2,6 %\n   3- De 1989-2000 : Population estim\u00e9 par les projections de la Direction de la Pr\u00e9vision et de la Statistique\n   4- De 1999 \u00e0 2001 : Nouvelles projections division des enqu\u00eates d\u00e9mographiques de la DPS\n</p>", 
         "ratings_average": null, 
