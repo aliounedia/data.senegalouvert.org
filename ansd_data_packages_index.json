@@ -31,25 +31,22 @@
 
 		  "schema" :{
 		    "fields": [
-          		{
-            		"id": "_id", 
-            		"type": "numeric"
-         		 }, 
+          		
           		{
            		 "id": "Annees", 
-           		 "type": "numeric"
+           		 "type": "date"
           		}, 
           		{
            	       "id": "Population totale", 
-            	"type": "numeric"
+            	"type": "number"
           		}, 
           		{
            		 "id": "Hommes", 
-            	"type": "numeric"
+            	"type": "number"
          		 },
 		     {
            		 "id": "Femmes", 
-           		 "type": "numeric"
+           		 "type": "number"
           		}
 		    ]
 		}
@@ -79,29 +76,27 @@
                 "webstore_url": "active"
             }, 
             {
-
-
-		     "fields": [
-          		{
-            		"id": "_id", 
-            		"type": "numeric"
-         		 }, 
+		  "schema" :{
+		    "fields": [
+          		
           		{
            		 "id": "Annees", 
-           		 "type": "numeric"
+           		 "type": "date"
           		}, 
           		{
            	       "id": "Population totale", 
-            	"type": "numeric"
+            	"type": "number"
           		}, 
           		{
            		 "id": "Hommes", 
-            	"type": "numeric"
+            	"type": "number"
          		 },
 		     {
            		 "id": "Femmes", 
-           		 "type": "numeric"
-          		}], 
+           		 "type": "number"
+          		}
+		    ]
+		   }, 
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-04-03T16:04:36.849595", 
