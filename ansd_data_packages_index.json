@@ -1,6 +1,6 @@
 {
 
-	"535e2fe2-60de-4d02-b287-50a1a0dbd11c":{
+	"r-partition-de-la-population-selon-le-sexe-de-1970-2005":{
         "author": "", 
         "author_email": "", 
         "ckan_url": "http://thedatahub.org/dataset/r-partition-de-la-population-selon-le-sexe-de-1970-2005", 
@@ -11,7 +11,7 @@
             "country-sn"
         ], 
         "id": "535e2fe2-60de-4d02-b287-50a1a0dbd11c", 
- 	  "name": "535e2fe2-60de-4d02-b287-50a1a0dbd11c", 
+ 	  "name": "r-partition-de-la-population-selon-le-sexe-de-1970-2005", 
         "isopen": true, 
         "license": "Other (Public Domain)", 
         "license_id": "other-pd", 
