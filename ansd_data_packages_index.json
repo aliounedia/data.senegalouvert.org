@@ -25,7 +25,8 @@
         "ratings_average": null, 
         "ratings_count": 0, 
         "relationships": [], 
-        "resources": {
+        "resources": [
+		{
 		    "fields": [
           		{
             		"id": "_id", 
