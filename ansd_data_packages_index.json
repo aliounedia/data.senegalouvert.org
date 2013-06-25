@@ -27,24 +27,41 @@
         "ratings_count": 0, 
         "relationships": [], 
         "resources": [
-		{
 
-		  "schema" :{
+	"schema" :{
 		    "fields": [
-            {
-              "format": "yyyy", 
-              "id": "Year", 
-              "type": "date"
-            }, 
-            {
-              "description": "Annual average yield from British Government Securities, 10 year Nominal Par Yield", 
-              "format": "percentage", 
-              "id": "Rate", 
-              "type": "number"
-            }
+          		
+          		{
+           		 "id": "Annees", 
+           		 "type": "date"
+          		}, 
+          		{
+           	       "id": "Population totale", 
+            	"type": "number"
+          		}, 
+          		{
+           		 "id": "Hommes", 
+            	"type": "number"
+         		 },
+		     {
+           		 "id": "Femmes", 
+           		 "type": "number"
+          		}
+		    ]
+		   }
+				, 
+		    "views": [
+      {
+        "id": "graph", 
+        "state": {
+          "group": "Year", 
+          "series": [
+            "Hommes"
           ]
-		}
-		, 
+        }, 
+        "type": "Graph"
+      }
+    ],
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-06-23T18:01:17.822308", 
@@ -65,32 +82,12 @@
                     "recent": 0, 
                     "total": 0
                 }, 
-               "url": "https://raw.github.com/datasets/bond-yields-uk-10y/master/annual.csv" ,
+               "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-06-23T230035/Repartition_population_selon_sexe_1970_2005.csv", 
 		   "webstore_last_updated": "2013-06-23T18:01:23.165047", 
                 "webstore_url": "active"
             }, 
             {
-		  "schema" :{
-		    "fields": [
-          		
-          		{
-           		 "id": "Annees", 
-           		 "type": "date"
-          		}, 
-          		{
-           	       "id": "Population totale", 
-            	"type": "number"
-          		}, 
-          		{
-           		 "id": "Hommes", 
-            	"type": "number"
-         		 },
-		     {
-           		 "id": "Femmes", 
-           		 "type": "number"
-          		}
-		    ]
-		   }, 
+		  
                 "cache_last_updated": null, 
                 "cache_url": "", 
                 "created": "2013-04-03T16:04:36.849595", 
